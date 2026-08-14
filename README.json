@@ -98,7 +98,7 @@
             "last_commit": "2026-08-01T03:31:09Z",
             "owner": "simular-ai",
             "repo": "Agent-S",
-            "stars": 12149
+            "stars": 12156
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2024-09-09T02:11:13Z",
             "owner": "OS-Copilot",
             "repo": "OS-Copilot",
-            "stars": 1794
+            "stars": 1795
           }
         },
         {
@@ -176,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-01T18:24:30Z",
+            "last_commit": "2026-08-14T03:08:41Z",
             "owner": "letta-ai",
             "repo": "letta",
-            "stars": 24229
+            "stars": 24237
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21928
+            "stars": 21932
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-07-29T00:02:46Z",
             "owner": "OSU-NLP-Group",
             "repo": "HippoRAG",
-            "stars": 3940
+            "stars": 3942
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2024-11-07T04:58:20Z",
             "owner": "BAAI-Agents",
             "repo": "Cradle",
-            "stars": 2563
+            "stars": 2565
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2024-04-08T02:48:50Z",
             "owner": "CraftJarvis",
             "repo": "JARVIS-1",
-            "stars": 408
+            "stars": 409
           }
         }
       ],
@@ -411,7 +411,7 @@
             "last_commit": "2026-03-05T11:44:03Z",
             "owner": "WujiangXu",
             "repo": "A-mem",
-            "stars": 941
+            "stars": 942
           }
         },
         {
@@ -445,7 +445,7 @@
             "last_commit": "2024-04-08T02:48:50Z",
             "owner": "CraftJarvis",
             "repo": "JARVIS-1",
-            "stars": 408
+            "stars": 409
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-08-01T03:31:09Z",
             "owner": "simular-ai",
             "repo": "Agent-S",
-            "stars": 12149
+            "stars": 12156
           }
         },
         {
@@ -512,7 +512,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9075
+            "stars": 9079
           }
         }
       ],
@@ -607,7 +607,7 @@
             "last_commit": "2026-07-29T00:02:46Z",
             "owner": "OSU-NLP-Group",
             "repo": "HippoRAG",
-            "stars": 3940
+            "stars": 3942
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2026-05-11T22:49:24Z",
             "owner": "xiaowu0162",
             "repo": "LongMemEval",
-            "stars": 1000
+            "stars": 1002
           }
         }
       ],
@@ -694,7 +694,7 @@
             "last_commit": "2026-07-13T14:26:28Z",
             "owner": "lucidrains",
             "repo": "titans-pytorch",
-            "stars": 1974
+            "stars": 1975
           }
         },
         {
@@ -805,7 +805,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40057
+            "stars": 40056
           }
         },
         {
@@ -853,7 +853,7 @@
             "last_commit": "2024-03-12T15:58:25Z",
             "owner": "facebookresearch",
             "repo": "detr",
-            "stars": 15358
+            "stars": 15357
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2017-10-28T15:26:22Z",
             "owner": "KaimingHe",
             "repo": "deep-residual-networks",
-            "stars": 6750
+            "stars": 6751
           }
         },
         {
@@ -949,7 +949,7 @@
             "last_commit": "2026-07-28T13:03:12Z",
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11839
+            "stars": 11838
           }
         }
       ],
@@ -969,7 +969,7 @@
             "last_commit": "2024-01-06T02:41:20Z",
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 34020
+            "stars": 34018
           }
         },
         {
@@ -983,7 +983,7 @@
             "last_commit": "2025-07-29T13:44:13Z",
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25160
+            "stars": 25161
           }
         },
         {
@@ -1064,7 +1064,7 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34166
+            "stars": 34171
           }
         },
         {
@@ -1095,10 +1095,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T07:51:07Z",
+            "last_commit": "2026-08-13T19:06:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38527
+            "stars": 38532
           }
         },
         {
@@ -1185,7 +1185,7 @@
             "last_commit": "2024-09-02T09:07:21Z",
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-4",
-            "stars": 25635
+            "stars": 25634
           }
         },
         {
@@ -1199,7 +1199,7 @@
             "last_commit": "2026-01-30T04:47:30Z",
             "owner": "QwenLM",
             "repo": "Qwen3-VL",
-            "stars": 19780
+            "stars": 19786
           }
         },
         {
@@ -1213,7 +1213,7 @@
             "last_commit": "2026-06-15T06:32:49Z",
             "owner": "LLaVA-VL",
             "repo": "LLaVA-NeXT",
-            "stars": 4713
+            "stars": 4714
           }
         },
         {
@@ -1227,7 +1227,7 @@
             "last_commit": "2025-03-03T03:01:31Z",
             "owner": "zai-org",
             "repo": "CogVLM2",
-            "stars": 2434
+            "stars": 2433
           }
         },
         {
@@ -1261,7 +1261,7 @@
             "last_commit": "2026-08-12T14:16:57Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26160
+            "stars": 26169
           }
         },
         {
@@ -1275,7 +1275,7 @@
             "last_commit": "2026-07-20T01:09:31Z",
             "owner": "microsoft",
             "repo": "OmniParser",
-            "stars": 25249
+            "stars": 25257
           }
         },
         {
@@ -1323,7 +1323,7 @@
             "last_commit": "2024-12-24T19:48:03Z",
             "owner": "real-stanford",
             "repo": "diffusion_policy",
-            "stars": 4450
+            "stars": 4455
           }
         },
         {
@@ -1475,7 +1475,7 @@
             "last_commit": "2024-10-06T04:13:22Z",
             "owner": "OFA-Sys",
             "repo": "ONE-PEACE",
-            "stars": 1062
+            "stars": 1061
           }
         },
         {
@@ -1668,10 +1668,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T11:00:23Z",
+            "last_commit": "2026-08-14T10:15:52Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186582
+            "stars": 186618
           }
         },
         {
@@ -1699,7 +1699,7 @@
             "last_commit": "2025-01-14T07:54:02Z",
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3227
+            "stars": 3228
           }
         },
         {
@@ -1730,10 +1730,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:08:48Z",
+            "last_commit": "2026-08-14T10:05:32Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 83894
+            "stars": 84006
           }
         },
         {
@@ -1747,7 +1747,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69801
+            "stars": 69810
           }
         },
         {
@@ -1761,7 +1761,7 @@
             "last_commit": "2026-07-24T08:01:27Z",
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 33988
+            "stars": 33997
           }
         },
         {
@@ -1795,7 +1795,7 @@
             "last_commit": "2026-04-15T11:59:09Z",
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60396
+            "stars": 60419
           }
         },
         {
@@ -1809,7 +1809,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21928
+            "stars": 21932
           }
         }
       ],
@@ -1834,7 +1834,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7138
+            "stars": 7140
           }
         },
         {
@@ -1848,7 +1848,7 @@
             "last_commit": "2024-03-18T18:10:28Z",
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2247
+            "stars": 2249
           }
         },
         {
@@ -1862,7 +1862,7 @@
             "last_commit": "2024-04-08T02:48:50Z",
             "owner": "CraftJarvis",
             "repo": "JARVIS-1",
-            "stars": 408
+            "stars": 409
           }
         },
         {
@@ -1972,7 +1972,7 @@
             "last_commit": "2024-09-06T04:00:38Z",
             "owner": "princeton-nlp",
             "repo": "WebShop",
-            "stars": 579
+            "stars": 581
           }
         }
       ],
@@ -1992,7 +1992,7 @@
             "last_commit": "2026-07-20T01:09:31Z",
             "owner": "microsoft",
             "repo": "OmniParser",
-            "stars": 25249
+            "stars": 25257
           }
         },
         {
@@ -2006,7 +2006,7 @@
             "last_commit": "2026-08-10T06:52:54Z",
             "owner": "microsoft",
             "repo": "UFO",
-            "stars": 9470
+            "stars": 9480
           }
         },
         {
@@ -2020,7 +2020,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9075
+            "stars": 9079
           }
         },
         {
@@ -2054,7 +2054,7 @@
             "last_commit": "2026-07-28T08:54:04Z",
             "owner": "HKUSTDial",
             "repo": "NL2SQL_Handbook",
-            "stars": 1560
+            "stars": 1561
           }
         },
         {
@@ -2096,7 +2096,7 @@
             "last_commit": "2025-05-17T20:24:34Z",
             "owner": "dki-lab",
             "repo": "Pangu",
-            "stars": 78
+            "stars": 77
           }
         },
         {
@@ -2202,7 +2202,7 @@
             "last_commit": "2025-07-29T13:44:13Z",
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25160
+            "stars": 25161
           }
         },
         {
@@ -2236,7 +2236,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69801
+            "stars": 69810
           }
         },
         {
@@ -2250,7 +2250,7 @@
             "last_commit": "2026-07-24T08:01:27Z",
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 33988
+            "stars": 33997
           }
         },
         {
@@ -2264,7 +2264,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21928
+            "stars": 21932
           }
         }
       ],
@@ -2284,7 +2284,7 @@
             "last_commit": "2025-01-14T07:54:02Z",
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3227
+            "stars": 3228
           }
         },
         {
@@ -2899,7 +2899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:09:01.837Z",
+    "last_updated": "2026-08-14T11:06:48.667Z",
     "original_repository": "FoundationAgents/awesome-foundation-agents",
     "original_repository_sha": "692cfbbaa750c443de11325041dcff6d60bbc861",
     "enhanced_repository": "enhansome/enhansome-foundation-agents",
