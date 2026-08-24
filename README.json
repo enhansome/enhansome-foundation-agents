@@ -13,6 +13,49 @@
                       "children": [
                         {
                           "node_type": "item",
+                          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning [paper",
+                          "description": "] [code]",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 940662305,
+                            "language": "Python",
+                            "last_commit": "2025-11-13T21:56:33Z",
+                            "owner": "PeterGriffinJin",
+                            "repo": "Search-R1",
+                            "stars": 5325
+                          }
+                        }
+                      ],
+                      "description": null,
+                      "node_type": "group",
+                      "title": "Full"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Space"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Learning"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cognition"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "node_type": "item",
                           "title": "MemoryBank: Enhancing Large Language Models with Long‑Term Memory, AAAI 2024, [paper",
                           "description": "] [code]",
                           "children": [],
@@ -149,7 +192,7 @@
                             "last_commit": "2026-08-23T19:05:43Z",
                             "owner": "letta-ai",
                             "repo": "letta",
-                            "stars": 24395
+                            "stars": 24400
                           }
                         },
                         {
@@ -216,7 +259,7 @@
                             "last_commit": "2024-08-05T21:38:56Z",
                             "owner": "joonspk-research",
                             "repo": "generative_agents",
-                            "stars": 21973
+                            "stars": 21974
                           }
                         },
                         {
@@ -275,7 +318,7 @@
                             "last_commit": "2026-08-23T14:35:10Z",
                             "owner": "OSU-NLP-Group",
                             "repo": "HippoRAG",
-                            "stars": 3959
+                            "stars": 3960
                           }
                         },
                         {
@@ -349,6 +392,28 @@
               "children": [
                 {
                   "children": [
+                    {
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "HiAgent: Hierarchical Working Memory Management for Solving Long‑Horizon Agent Tasks with Large Language Model, ACL 2025, [paper",
+                          "description": "] [code]",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 843507125,
+                            "language": "SAS",
+                            "last_commit": "2026-04-15T13:12:55Z",
+                            "owner": "HiAgent2024",
+                            "repo": "HiAgent",
+                            "stars": 68
+                          }
+                        }
+                      ],
+                      "description": null,
+                      "node_type": "group",
+                      "title": "Information Compression"
+                    },
                     {
                       "children": [
                         {
@@ -591,7 +656,7 @@
                             "last_commit": "2026-08-23T14:35:10Z",
                             "owner": "OSU-NLP-Group",
                             "repo": "HippoRAG",
-                            "stars": 3959
+                            "stars": 3960
                           }
                         },
                         {
@@ -613,6 +678,28 @@
                       "description": null,
                       "node_type": "group",
                       "title": "Indexing"
+                    },
+                    {
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "Large Memory Layers with Product Keys, NeurIPS 2019, [paper",
+                          "description": "] [code]",
+                          "children": [],
+                          "repo_info": {
+                            "archived": true,
+                            "id": 168776578,
+                            "language": "Python",
+                            "last_commit": "2023-02-14T14:44:13Z",
+                            "owner": "facebookresearch",
+                            "repo": "XLM",
+                            "stars": 2920
+                          }
+                        }
+                      ],
+                      "description": null,
+                      "node_type": "group",
+                      "title": "Matching"
                     }
                   ],
                   "description": null,
@@ -817,7 +904,7 @@
                         "last_commit": "2024-07-23T23:39:41Z",
                         "owner": "google-research",
                         "repo": "bert",
-                        "stars": 40047
+                        "stars": 40046
                       }
                     },
                     {
@@ -869,7 +956,7 @@
                         "last_commit": "2024-03-12T15:58:25Z",
                         "owner": "facebookresearch",
                         "repo": "detr",
-                        "stars": 15353
+                        "stars": 15354
                       }
                     },
                     {
@@ -1010,7 +1097,7 @@
                         "last_commit": "2025-07-29T13:44:13Z",
                         "owner": "microsoft",
                         "repo": "JARVIS",
-                        "stars": 25201
+                        "stars": 25204
                       }
                     },
                     {
@@ -1099,7 +1186,7 @@
                         "last_commit": "2026-03-25T18:46:40Z",
                         "owner": "openai",
                         "repo": "CLIP",
-                        "stars": 34217
+                        "stars": 34218
                       }
                     },
                     {
@@ -1121,6 +1208,28 @@
                   "description": null,
                   "node_type": "group",
                   "title": "Text-Image"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding, 2021, [paper",
+                      "description": "] [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 101782647,
+                        "language": "Python",
+                        "last_commit": "2025-09-30T11:16:06Z",
+                        "owner": "facebookresearch",
+                        "repo": "fairseq",
+                        "stars": 32234
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Text-Video"
                 },
                 {
                   "children": [
@@ -1381,7 +1490,7 @@
                         "last_commit": "2024-12-24T19:48:03Z",
                         "owner": "real-stanford",
                         "repo": "diffusion_policy",
-                        "stars": 4482
+                        "stars": 4484
                       }
                     },
                     {
@@ -1735,10 +1844,10 @@
                         "archived": false,
                         "id": 614765452,
                         "language": "Python",
-                        "last_commit": "2026-08-24T10:43:12Z",
+                        "last_commit": "2026-08-24T13:56:37Z",
                         "owner": "Significant-Gravitas",
                         "repo": "AutoGPT",
-                        "stars": 186848
+                        "stars": 186849
                       }
                     },
                     {
@@ -1753,7 +1862,7 @@
                         "last_commit": "2024-02-06T02:34:32Z",
                         "owner": "ysymyth",
                         "repo": "ReAct",
-                        "stars": 4119
+                        "stars": 4120
                       }
                     },
                     {
@@ -1802,10 +1911,10 @@
                         "archived": false,
                         "id": 771302083,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-24T10:26:06Z",
+                        "last_commit": "2026-08-24T13:49:16Z",
                         "owner": "OpenHands",
                         "repo": "OpenHands",
-                        "stars": 84930
+                        "stars": 84943
                       }
                     },
                     {
@@ -1820,7 +1929,7 @@
                         "last_commit": "2026-01-21T10:12:33Z",
                         "owner": "FoundationAgents",
                         "repo": "MetaGPT",
-                        "stars": 69992
+                        "stars": 69996
                       }
                     },
                     {
@@ -1835,7 +1944,7 @@
                         "last_commit": "2026-07-24T08:01:27Z",
                         "owner": "OpenBMB",
                         "repo": "ChatDev",
-                        "stars": 34110
+                        "stars": 34113
                       }
                     },
                     {
@@ -1850,7 +1959,7 @@
                         "last_commit": "2026-08-17T22:33:19Z",
                         "owner": "SWE-agent",
                         "repo": "SWE-agent",
-                        "stars": 20118
+                        "stars": 20119
                       }
                     }
                   ],
@@ -1872,7 +1981,7 @@
                         "last_commit": "2026-04-15T11:59:09Z",
                         "owner": "microsoft",
                         "repo": "autogen",
-                        "stars": 60605
+                        "stars": 60608
                       }
                     },
                     {
@@ -1887,7 +1996,7 @@
                         "last_commit": "2024-08-05T21:38:56Z",
                         "owner": "joonspk-research",
                         "repo": "generative_agents",
-                        "stars": 21973
+                        "stars": 21974
                       }
                     }
                   ],
@@ -2099,10 +2208,10 @@
                         "archived": false,
                         "id": 740316987,
                         "language": "Python",
-                        "last_commit": "2026-08-10T06:52:54Z",
+                        "last_commit": "2026-08-24T13:00:27Z",
                         "owner": "microsoft",
                         "repo": "UFO",
-                        "stars": 9545
+                        "stars": 9546
                       }
                     },
                     {
@@ -2132,7 +2241,7 @@
                         "last_commit": "2025-03-19T11:01:38Z",
                         "owner": "TencentQQGYLab",
                         "repo": "AppAgent",
-                        "stars": 6857
+                        "stars": 6858
                       }
                     }
                   ],
@@ -2230,6 +2339,28 @@
             {
               "children": [
                 {
+                  "node_type": "item",
+                  "title": "Voxposer: Composable 3d value maps for robotic manipulation with language models., CoRL 2023, [paper",
+                  "description": "] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 713152194,
+                    "language": "Python",
+                    "last_commit": "2025-02-20T05:53:42Z",
+                    "owner": "huangwl18",
+                    "repo": "VoxPoser",
+                    "stars": 832
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Physical"
+            },
+            {
+              "children": [
+                {
                   "children": [
                     {
                       "node_type": "item",
@@ -2310,7 +2441,7 @@
                         "last_commit": "2025-07-29T13:44:13Z",
                         "owner": "microsoft",
                         "repo": "JARVIS",
-                        "stars": 25201
+                        "stars": 25204
                       }
                     },
                     {
@@ -2347,7 +2478,7 @@
                         "last_commit": "2026-01-21T10:12:33Z",
                         "owner": "FoundationAgents",
                         "repo": "MetaGPT",
-                        "stars": 69992
+                        "stars": 69996
                       }
                     },
                     {
@@ -2362,7 +2493,7 @@
                         "last_commit": "2026-07-24T08:01:27Z",
                         "owner": "OpenBMB",
                         "repo": "ChatDev",
-                        "stars": 34110
+                        "stars": 34113
                       }
                     },
                     {
@@ -2377,7 +2508,7 @@
                         "last_commit": "2024-08-05T21:38:56Z",
                         "owner": "joonspk-research",
                         "repo": "generative_agents",
-                        "stars": 21973
+                        "stars": 21974
                       }
                     }
                   ],
@@ -2426,6 +2557,79 @@
               "description": null,
               "node_type": "group",
               "title": "ICL (In-Context Learning)"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "LAM: Large Action Models: From Inception to Implementation, arXiv 2024, [paper",
+                      "description": "] [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 740316987,
+                        "language": "Python",
+                        "last_commit": "2026-08-24T13:00:27Z",
+                        "owner": "microsoft",
+                        "repo": "UFO",
+                        "stars": 9546
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Pre-Train"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "UniAct: Universal Actions for Enhanced Embodied Foundation Models, CVPR 2025, [paper",
+                      "description": "] [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 916507700,
+                        "language": "Python",
+                        "last_commit": "2025-11-06T05:35:18Z",
+                        "owner": "2toinf",
+                        "repo": "UniAct",
+                        "stars": 244
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "SFT"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "PT & SFT (Pre-Training & Supervised Fine-Tuning)"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ELLM: Guiding pretraining in reinforcement learning with large language models, ICML 2023, [paper",
+                  "description": "] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 675820833,
+                    "language": "Python",
+                    "last_commit": "2023-08-21T07:32:44Z",
+                    "owner": "yuqingd",
+                    "repo": "ellm",
+                    "stars": 91
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "RL (Reinforcement Learning)"
             }
           ],
           "description": null,
@@ -2554,6 +2758,28 @@
                   "description": null,
                   "node_type": "group",
                   "title": "Sparse Reward"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation, 2024, [paper",
+                      "description": "] [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 691299838,
+                        "language": "Ruby",
+                        "last_commit": "2025-04-09T23:38:04Z",
+                        "owner": "fe1ixxu",
+                        "repo": "ALMA",
+                        "stars": 590
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Delayed Reward"
                 },
                 {
                   "children": [
@@ -2885,6 +3111,35 @@
               "description": null,
               "node_type": "group",
               "title": "Hybrid Reward"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Token-level Direct Preference Optimization, 2024, [paper",
+                      "description": "] [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 787182710,
+                        "language": "Python",
+                        "last_commit": "2025-02-14T05:23:45Z",
+                        "owner": "Vance0124",
+                        "repo": "Token-level-Direct-Preference-Optimization",
+                        "stars": 156
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Hierarchical Reward"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Hierarchical Reward"
             }
           ],
           "description": null,
@@ -2896,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:49:49.569Z",
+    "last_updated": "2026-08-24T14:07:40.353Z",
     "original_repository": "FoundationAgents/awesome-foundation-agents",
     "original_repository_id": 953748393,
     "original_repository_sha": "692cfbbaa750c443de11325041dcff6d60bbc861",
