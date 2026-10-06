@@ -46,7 +46,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ##### Full
 
-* **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning** \[[paper](https://arxiv.org/abs/2503.09516)] \[[code](https://github.com/PeterGriffinJin/Search-R1) ⭐ 5,480 | 🐛 37 | 🌐 Python | 📅 2025-11-13]
+* **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning** \[[paper](https://arxiv.org/abs/2503.09516)] \[[code](https://github.com/PeterGriffinJin/Search-R1) ⭐ 5,481 | 🐛 37 | 🌐 Python | 📅 2025-11-13]
 * **Add SFT,RLHF,PEFT**
 * **ReFT: Reasoning with Reinforced Fine-Tuning**, arxiv 2024, \[[paper](https://arxiv.org/abs/2401.08967)] \[[code]()]
 * **R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning**, arxiv 2025, \[[paper](https://arxiv.org/abs/2503.05592)] \[[code]()]
@@ -170,7 +170,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ##### Multi‑modal
 
-* **Agent S: An Open Agentic Framework that Uses Computers Like a Human**, arXiv 2024, \[[paper](https://arxiv.org/abs/2403.05901)]\[[code](https://github.com/simular-ai/Agent-S) ⭐ 12,542 | 🐛 59 | 🌐 Python | 📅 2026-09-05]
+* **Agent S: An Open Agentic Framework that Uses Computers Like a Human**, arXiv 2024, \[[paper](https://arxiv.org/abs/2403.05901)]\[[code](https://github.com/simular-ai/Agent-S) ⭐ 12,546 | 🐛 59 | 🌐 Python | 📅 2026-09-05]
 * **OS‑Copilot: Towards Generalist Computer Agents with Self‑Improvement**, ICLR 2024 LLMAgents Workshop, \[[paper](https://arxiv.org/abs/2403.17359)] \[[code](https://github.com/OS-Copilot/OS-Copilot) ⭐ 1,793 | 🐛 21 | 🌐 Python | 📅 2024-09-09]
 * **VideoAgent: A Memory‑augmented Multimodal Agent for Video Understanding**, ECCV 2024, \[[paper](https://arxiv.org/abs/2405.07956)] \[[code](https://github.com/wxh1996/VideoAgent) ⭐ 153 | 🐛 7 | 🌐 Python | 📅 2025-04-16]
 * **WorldGPT: Empowering LLM as Multimodal World Model**, arXiv 2024, \[[paper](https://arxiv.org/abs/2403.10193)] \[[code](https://github.com/DCDmllm/WorldGPT) ⭐ 123 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-08-06]
@@ -180,7 +180,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ##### Context
 
-* **MemGPT: Towards LLMs as Operating Systems**, arXiv 2023, \[[paper](https://arxiv.org/abs/2309.07508)] \[[code](https://github.com/cpacker/MemGPT) ⭐ 25,043 | 🐛 0 | 📅 2026-09-10]
+* **MemGPT: Towards LLMs as Operating Systems**, arXiv 2023, \[[paper](https://arxiv.org/abs/2309.07508)] \[[code](https://github.com/cpacker/MemGPT) ⭐ 25,048 | 🐛 0 | 📅 2026-09-10]
 * **RCI: Language Models Can Solve Computer Tasks (Recursive Criticism and Improvement)**, NeurIPS 2023, \[[paper](https://arxiv.org/abs/2305.12934)] \[[code](https://github.com/posgnu/rci-agent) ⭐ 241 | 🐛 2 | 🌐 HTML | 📅 2024-05-01]
 * **LSFS: From Commands to Prompts: LLM‑based Semantic File System**, ICLR 2025, \[[paper](https://arxiv.org/abs/2404.13007)] \[[code](https://github.com/agiresearch/AIOS-LSFS) ⭐ 55 | 🐛 2 | 🌐 Python | 📅 2025-03-09]
 * **KARMA: Augmenting Embodied AI Agents with Long‑ and Short‑Term Memory Systems**, arXiv 2024, \[[paper](https://arxiv.org/abs/2403.09692)] \[[code](https://github.com/WZX0Swarm0Robotics/KARMA) ⭐ 12 | 🐛 0 | 📅 2025-03-20]
@@ -188,7 +188,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ##### Working
 
-* **Generative Agent: Interactive Simulacra of Human Behavior**, UIST 2023, \[[paper](https://arxiv.org/abs/2305.00118)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 22,191 | 🐛 146 | 📅 2024-08-05]
+* **Generative Agent: Interactive Simulacra of Human Behavior**, UIST 2023, \[[paper](https://arxiv.org/abs/2305.00118)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 22,192 | 🐛 146 | 📅 2024-08-05]
 * **HiAgent: Hierarchical Working Memory Management for Solving Long‑Horizon Agent Tasks with Large Language Model**, arXiv 2024, \[[paper](https://arxiv.org/abs/2405.12790)] \[[code](https://github.com/HiAgent2024/HiAgent) ⭐ 74 | 🐛 6 | 🌐 SAS | 📅 2026-04-15]
 * **CALYPSO: LLMs as Dungeon Master’s Assistants**, AIIDE 2023, \[[paper](https://ojs.aaai.org/index.php/AIIDE/article/view/27546)] \[[code](https://github.com/northern-lights-province/calypso-aiide-artifact) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2023-08-23]
 * **RLP: Reflective Linguistic Programming (RLP): A Stepping Stone in Socially‑Aware AGI**, arXiv 2023, \[[paper](https://arxiv.org/abs/2305.12647)]
@@ -197,7 +197,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ##### Semantic
 
-* **HippoRAG: Neurobiologically Inspired Long‑Term Memory for Large Language Models**, NeurIPS 2024, \[[paper](https://arxiv.org/abs/2405.14831)] \[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,040 | 🐛 7 | 🌐 Python | 📅 2026-10-01]
+* **HippoRAG: Neurobiologically Inspired Long‑Term Memory for Large Language Models**, NeurIPS 2024, \[[paper](https://arxiv.org/abs/2405.14831)] \[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,041 | 🐛 7 | 🌐 Python | 📅 2026-10-01]
 * **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents**, arXiv 2024, \[[paper](https://arxiv.org/abs/2407.04363)] \[[code](https://github.com/AIRI-Institute/AriGraph) ⭐ 175 | 🐛 2 | 🌐 Inform 7 | 📅 2024-09-10]
 * **RecAgent**: see above
 
@@ -253,7 +253,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ##### Reflection
 
-* **Agent S: An Open Agentic Framework that Uses Computers Like a Human**, ICLR 2025 Poster, \[[paper](https://arxiv.org/abs/2403.05901)] \[[code](https://github.com/simular-ai/Agent-S) ⭐ 12,542 | 🐛 59 | 🌐 Python | 📅 2026-09-05]
+* **Agent S: An Open Agentic Framework that Uses Computers Like a Human**, ICLR 2025 Poster, \[[paper](https://arxiv.org/abs/2403.05901)] \[[code](https://github.com/simular-ai/Agent-S) ⭐ 12,546 | 🐛 59 | 🌐 Python | 📅 2026-09-05]
 * **Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks**, ACL ARR 2025 (submitted), \[[paper](https://arxiv.org/abs/2309.15945)] \[[code](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-E) ⭐ 9,277 | 🐛 196 | 🌐 Python | 📅 2026-07-07]
 * **OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning**, ICLR 2025, \[[paper](https://arxiv.org/abs/2403.08767)]
 * **R2D2: Remembering, Reflecting and Dynamic Decision Making for Web Agents**, ACL 2025, \[[paper](https://aclanthology.org/2025.acl-long.1464)]
@@ -285,7 +285,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ##### Indexing
 
-* **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**, NeurIPS 2024, \[[paper](https://openreview.net/forum?id=Rz1nVVnp4P)] \[[project](https://ix.cs.uoregon.edu/~apouranb/hmn/hmn.html)] \[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,040 | 🐛 7 | 🌐 Python | 📅 2026-10-01]
+* **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**, NeurIPS 2024, \[[paper](https://openreview.net/forum?id=Rz1nVVnp4P)] \[[project](https://ix.cs.uoregon.edu/~apouranb/hmn/hmn.html)] \[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,041 | 🐛 7 | 🌐 Python | 📅 2026-10-01]
 * **LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**, ICLR 2025, \[[paper](https://openreview.net/forum?id=go6gKVh6bV)] \[[code](https://github.com/xiaowu0162/LongMemEval) ⭐ 1,131 | 🐛 46 | 🌐 Python | 📅 2026-05-11]
 * **TradingGPT: Multi-Agent System with Layered Memory for Simulated Stock Trading**, arXiv 2023, \[[paper](https://arxiv.org/abs/2311.05767)]
 * **SeCom: Memory Construction and Retrieval for Long-Term Personalized Conversational Agents**, ICLR 2025, \[[paper](https://openreview.net/forum?id=5eY3sG8o2k)] \[[project](https://aka.ms/SECOM)] \[[blog](https://www.microsoft.com/en-us/research/blog/secom-building-retrieval-based-long-term-memory-for-personalized-conversational-agents/)]
@@ -307,7 +307,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ##### Parameter Integration
 
-* **MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation**, The Web Conference (WWW) 2025, \[[paper](https://arxiv.org/abs/2409.05591)] \[[code](https://github.com/qhjqhj00/MemoRAG) ⭐ 2,270 | 🐛 23 | 🌐 Python | 📅 2025-09-11]
+* **MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation**, The Web Conference (WWW) 2025, \[[paper](https://arxiv.org/abs/2409.05591)] \[[code](https://github.com/qhjqhj00/MemoRAG) ⭐ 2,271 | 🐛 23 | 🌐 Python | 📅 2025-09-11]
 * **Titans: Learning to Memorize at Test Time**, arXiv 2024, \[[paper](https://arxiv.org/abs/2411.08544)] \[[unofficial code](https://github.com/lucidrains/titans-pytorch) ⭐ 1,989 | 🐛 38 | 🌐 Python | 📅 2026-07-13]
 * **Learning to (Learn at Test Time): RNNs with Expressive Hidden States**, ICLR 2025, \[[paper](https://openreview.net/forum?id=N0bdUqPjbB)] \[[code](https://github.com/test-time-training/ttt-lm-pytorch) ⭐ 1,405 | 🐛 8 | 🌐 Python | 📅 2024-07-14]
 * **MemoryLLM: Towards Self-Updatable Large Language Models**, ICML 2024, \[[paper](https://cseweb.ucsd.edu/~jmcauley/reviews/icml24c.pdf)] \[[code](https://github.com/wangyu-ustc/MemoryLLM) ⭐ 325 | 🐛 5 | 🌐 Python | 📅 2025-07-28]
@@ -361,19 +361,19 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Video
 
-* **ViViT: A Video Vision Transformer**, 2021, \[[paper](https://arxiv.org/abs/2103.15691)] \[[code](https://github.com/google-research/scenic/tree/main/scenic/projects/vivit) ⭐ 3,841 | 🐛 311 | 🌐 Python | 📅 2026-09-28]
+* **ViViT: A Video Vision Transformer**, 2021, \[[paper](https://arxiv.org/abs/2103.15691)] \[[code](https://github.com/google-research/scenic/tree/main/scenic/projects/vivit) ⭐ 3,842 | 🐛 311 | 🌐 Python | 📅 2026-09-28]
 * **VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**, 2022, \[[paper](https://arxiv.org/abs/2203.12602)] \[[code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,798 | 🐛 51 | 🌐 Python | 📅 2023-12-08]
 
 #### Audio
 
 * **wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations**, 2020, \[[paper](https://arxiv.org/abs/2006.11477)] \[[code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec) ⚠️ Archived]
-* **Seamless: Multilingual Expressive and Streaming Speech Translation**, 2023, \[[paper](https://arxiv.org/abs/2312.05187)] \[[code](https://github.com/facebookresearch/seamless_communication) ⭐ 11,883 | 🐛 254 | 🌐 Jupyter Notebook | 📅 2026-09-08]
+* **Seamless: Multilingual Expressive and Streaming Speech Translation**, 2023, \[[paper](https://arxiv.org/abs/2312.05187)] \[[code](https://github.com/facebookresearch/seamless_communication) ⭐ 11,885 | 🐛 255 | 🌐 Jupyter Notebook | 📅 2026-09-08]
 * **FastSpeech 2: Fast and High-Quality End-to-End Text to Speech**, 2020, \[[paper](https://arxiv.org/abs/2006.04558)] \[[code](https://speechresearch.github.io/fastspeech2)]
 
 #### Other Unimodal
 
 * **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**, 2023, \[[paper](https://arxiv.org/abs/2303.04671)] \[[code](https://github.com/chenfei-wu/TaskMatrix) ⭐ 33,971 | 🐛 262 | 🌐 Python | 📅 2024-01-06]
-* **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, 2024, \[[paper](https://arxiv.org/abs/2303.17580)] \[[code](https://github.com/microsoft/JARVIS) ⭐ 25,394 | 🐛 4,168 | 🌐 Python | 📅 2025-07-29]
+* **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, 2024, \[[paper](https://arxiv.org/abs/2303.17580)] \[[code](https://github.com/microsoft/JARVIS) ⭐ 25,396 | 🐛 4,170 | 🌐 Python | 📅 2025-07-29]
 * **AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head**, 2024, \[[paper](https://arxiv.org/abs/2304.12995)] \[[code](https://github.com/AIGC-Audio/AudioGPT) ⭐ 10,169 | 🐛 53 | 🌐 Python | 📅 2024-07-06]
 * **ViperGPT: Visual Inference via Python Execution for Reasoning**, 2023, \[[paper](https://arxiv.org/abs/2303.08128)] \[[code](https://github.com/cvlab-columbia/viper) ⭐ 1,719 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-01-29]
 * **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**, 2023, \[[paper](https://arxiv.org/abs/2303.11381)] \[[code](https://github.com/microsoft/MM-REACT) ⭐ 966 | 🐛 21 | 🌐 Python | 📅 2024-01-31]
@@ -383,7 +383,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Text-Image
 
-* **Learning Transferable Visual Models From Natural Language Supervision**, 2021, \[[paper](https://arxiv.org/abs/2103.00020)] \[[code](https://github.com/OpenAI/CLIP) ⭐ 34,415 | 🐛 274 | 🌐 Jupyter Notebook | 📅 2026-03-25]
+* **Learning Transferable Visual Models From Natural Language Supervision**, 2021, \[[paper](https://arxiv.org/abs/2103.00020)] \[[code](https://github.com/OpenAI/CLIP) ⭐ 34,417 | 🐛 274 | 🌐 Jupyter Notebook | 📅 2026-03-25]
 * **VisualBERT: A Simple and Performant Baseline for Vision and Language**, 2019, \[[paper](https://arxiv.org/abs/1908.03557)] \[[code](https://github.com/uclanlp/visualbert) ⭐ 542 | 🐛 14 | 🌐 Python | 📅 2023-05-01]
 * **Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision** , 2021, \[[paper](https://arxiv.org/abs/2102.05918)]
 * **Improving Image Generation with Better Captions**, 2023, \[[paper](https://cdn.openai.com/papers/dall-e-3.pdf)]
@@ -396,7 +396,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Text-Audio
 
-* **VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text**, 2021, \[[paper](https://arxiv.org/abs/2104.11178)] \[[code](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,874 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-09-30]
+* **VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text**, 2021, \[[paper](https://arxiv.org/abs/2104.11178)] \[[code](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,877 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-09-30]
 * **AudioCLIP: Extending CLIP to Image, Text and Audio** , 2022, \[[paper](https://arxiv.org/abs/2106.13043)] \[[code](https://github.com/AndreyGuzhov/AudioCLIP) ⭐ 874 | 🐛 3 | 🌐 Python | 📅 2021-09-30]
 * **Wav2CLIP: Learning Robust Audio Representations From CLIP**, 2022, \[[paper](https://arxiv.org/abs/2110.11499)] \[[code](https://github.com/descriptinc/lyrebird-wav2clip) ⭐ 362 | 🐛 12 | 🌐 Python | 📅 2022-02-15]
 
@@ -409,22 +409,22 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### VLM (Vision-Language Models)
 
-* **MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning**, 2023, \[[paper](https://arxiv.org/abs/2310.09478)] \[[code](https://github.com/Vision-CAIR/MiniGPT-4) ⭐ 25,603 | 🐛 375 | 🌐 Python | 📅 2024-09-02]
+* **MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning**, 2023, \[[paper](https://arxiv.org/abs/2310.09478)] \[[code](https://github.com/Vision-CAIR/MiniGPT-4) ⭐ 25,602 | 🐛 375 | 🌐 Python | 📅 2024-09-02]
 * **Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**, 2024, \[[paper](https://arxiv.org/abs/2409.12191)] \[[code](https://github.com/QwenLM/Qwen2.5-VL) ⭐ 20,042 | 🐛 437 | 🌐 Jupyter Notebook | 📅 2026-01-30]
-* **LLaVA-NeXT: Improved reasoning, OCR, and world knowledge**, 2024, \[[paper](https://llava-vl.github.io/blog/2024-01-30-llava-next)] \[[code](https://github.com/LLaVA-VL/LLaVA-NeXT) ⭐ 4,729 | 🐛 356 | 🌐 Python | 📅 2026-06-15]
+* **LLaVA-NeXT: Improved reasoning, OCR, and world knowledge**, 2024, \[[paper](https://llava-vl.github.io/blog/2024-01-30-llava-next)] \[[code](https://github.com/LLaVA-VL/LLaVA-NeXT) ⭐ 4,729 | 🐛 355 | 🌐 Python | 📅 2026-06-15]
 * **CogVLM2: Visual Language Models for Image and Video Understanding**, 2024, \[[paper](https://arxiv.org/abs/2408.16500)] \[[code](https://github.com/THUDM/CogVLM2) ⭐ 2,429 | 🐛 60 | 🌐 Python | 📅 2025-03-03]
 * **Generative Multimodal Models are In-Context Learners**, 2024, \[[paper](https://arxiv.org/abs/2312.13286)] \[[code](https://github.com/baaivision/Emu) ⭐ 1,777 | 🐛 47 | 🌐 Python | 📅 2026-01-12]
 
 ##### Edge-Side VLM
 
 * **MiniCPM-V: A GPT-4V Level MLLM on Your Phone**, 2024, \[[paper](https://arxiv.org/abs/2408.01800)] \[[code](https://github.com/OpenBMB/MiniCPM-V) ⭐ 26,500 | 🐛 59 | 🌐 Python | 📅 2026-09-08]
-* **OmniParser for Pure Vision Based GUI Agent** , 2024, \[[paper](https://arxiv.org/abs/2408.00203)] \[[code](https://github.com/microsoft/OmniParser) ⭐ 25,494 | 🐛 231 | 🌐 Jupyter Notebook | 📅 2026-07-20]
+* **OmniParser for Pure Vision Based GUI Agent** , 2024, \[[paper](https://arxiv.org/abs/2408.00203)] \[[code](https://github.com/microsoft/OmniParser) ⭐ 25,495 | 🐛 231 | 🌐 Jupyter Notebook | 📅 2026-07-20]
 * **MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices**, 2023, \[[paper](https://arxiv.org/abs/2312.16886)] \[[code](https://github.com/Meituan-AutoML/MobileVLM) ⭐ 1,370 | 🐛 34 | 🌐 Python | 📅 2024-04-15]
 * **TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones**, 2023, \[[paper](https://arxiv.org/abs/2312.16862)] \[[code](https://github.com/DLYuanGod/TinyGPT-V) ⭐ 1,313 | 🐛 27 | 🌐 Python | 📅 2026-02-05]
 
 #### VLA (Vision-Language for Action)
 
-* **Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**, 2023, \[[paper](https://arxiv.org/abs/2303.04137)] \[[code](https://github.com/real-stanford/diffusion_policy) ⭐ 4,611 | 🐛 108 | 🌐 Python | 📅 2024-12-24]
+* **Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**, 2023, \[[paper](https://arxiv.org/abs/2303.04137)] \[[code](https://github.com/real-stanford/diffusion_policy) ⭐ 4,612 | 🐛 108 | 🌐 Python | 📅 2024-12-24]
 * **RT-1: Robotics Transformer for Real-World Control at Scale**, 2022, \[[paper](https://arxiv.org/abs/2212.06817)] \[[code](https://github.com/google-research/robotics_transformer) ⚠️ Archived]
 * **CLIPort: What and Where Pathways for Robotic Manipulation**, 2022, \[[paper](https://arxiv.org/abs/2109.12098)] \[[code](https://github.com/cliport/cliport) ⭐ 548 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-11-02]
 * **Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**, 2023, \[[paper](https://arxiv.org/abs/2209.05451)] \[[code](https://github.com/peract/peract) ⭐ 498 | 🐛 17 | 🌐 Python | 📅 2024-05-09]
@@ -508,7 +508,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Text
 
-* **AutoGPT: Build, Deploy, and Run AI Agents**, Github, \[[code](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,673 | 🐛 610 | 🌐 Python | 📅 2026-10-06]
+* **AutoGPT: Build, Deploy, and Run AI Agents**, Github, \[[code](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,675 | 🐛 611 | 🌐 Python | 📅 2026-10-06]
 
 * **ReAct: Synergizing Reasoning and Acting in Language Models**, ICLR 2023, \[[paper](https://arxiv.org/abs/2210.03629)] \[[code](https://github.com/ysymyth/ReAct) ⭐ 4,201 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06]
 
@@ -518,21 +518,21 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Code
 
-* **OpenHands: An Open Platform for AI Software Developers as Generalist Agents**, arXiv 2024, \[[paper](https://arxiv.org/abs/2407.16741)] \[[code](https://github.com/All-Hands-AI/OpenHands) ⭐ 90,086 | 🐛 911 | 🌐 TypeScript | 📅 2026-10-06]
+* **OpenHands: An Open Platform for AI Software Developers as Generalist Agents**, arXiv 2024, \[[paper](https://arxiv.org/abs/2407.16741)] \[[code](https://github.com/All-Hands-AI/OpenHands) ⭐ 90,105 | 🐛 915 | 🌐 TypeScript | 📅 2026-10-06]
 
-* **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework**, ICLR 2023, \[[paper](https://arxiv.org/abs/2308.00352)] \[[code](https://github.com/geekan/MetaGPT) ⭐ 70,760 | 🐛 142 | 🌐 Python | 📅 2026-01-21]
+* **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework**, ICLR 2023, \[[paper](https://arxiv.org/abs/2308.00352)] \[[code](https://github.com/geekan/MetaGPT) ⭐ 70,761 | 🐛 142 | 🌐 Python | 📅 2026-01-21]
 
-* **ChatDev: Communicative Agents for Software Development**, ACL 2024, \[[paper](https://arxiv.org/abs/2307.07924)] \[[code](https://github.com/OpenBMB/ChatDev) ⭐ 34,451 | 🐛 82 | 🌐 Python | 📅 2026-07-24]
+* **ChatDev: Communicative Agents for Software Development**, ACL 2024, \[[paper](https://arxiv.org/abs/2307.07924)] \[[code](https://github.com/OpenBMB/ChatDev) ⭐ 34,454 | 🐛 81 | 🌐 Python | 📅 2026-07-24]
 
-* **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering**, NeurIPS 2025, \[[paper](https://arxiv.org/abs/2405.15793)] \[[code](https://github.com/SWE-agent/SWE-agent) ⭐ 20,494 | 🐛 149 | 🌐 Python | 📅 2026-10-06]
+* **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering**, NeurIPS 2025, \[[paper](https://arxiv.org/abs/2405.15793)] \[[code](https://github.com/SWE-agent/SWE-agent) ⭐ 20,495 | 🐛 151 | 🌐 Python | 📅 2026-10-06]
 
 *
 
 #### Chat
 
-* **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation**, COLM 2024, \[[paper](https://arxiv.org/abs/2308.08155)] \[[code](https://github.com/microsoft/autogen) ⭐ 61,272 | 🐛 1,101 | 🌐 Python | 📅 2026-04-15]
+* **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation**, COLM 2024, \[[paper](https://arxiv.org/abs/2308.08155)] \[[code](https://github.com/microsoft/autogen) ⭐ 61,275 | 🐛 1,101 | 🌐 Python | 📅 2026-04-15]
 
-* **Generative Agents: Interactive Simulacra of Human Behavior**, UIST 2023, \[[paper](https://arxiv.org/abs/2304.03442)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 22,191 | 🐛 146 | 📅 2024-08-05]
+* **Generative Agents: Interactive Simulacra of Human Behavior**, UIST 2023, \[[paper](https://arxiv.org/abs/2304.03442)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 22,192 | 🐛 146 | 📅 2024-08-05]
 
 ### Digital
 
@@ -558,9 +558,9 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Web
 
-* **Mind2Web: Towards a Generalist Agent for the Web**, NeurIPS 2025, \[[paper](https://arxiv.org/abs/2306.06070)] \[[code](https://github.com/OSU-NLP-Group/Mind2Web) ⭐ 1,032 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2025-11-05]
+* **Mind2Web: Towards a Generalist Agent for the Web**, NeurIPS 2025, \[[paper](https://arxiv.org/abs/2306.06070)] \[[code](https://github.com/OSU-NLP-Group/Mind2Web) ⭐ 1,031 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2025-11-05]
 
-* **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**, NeurIPS 2022, \[[paper](https://arxiv.org/abs/2207.01206)] \[[code](https://github.com/princeton-nlp/WebShop) ⭐ 600 | 🐛 18 | 🌐 Python | 📅 2024-09-06]
+* **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**, NeurIPS 2022, \[[paper](https://arxiv.org/abs/2207.01206)] \[[code](https://github.com/princeton-nlp/WebShop) ⭐ 601 | 🐛 18 | 🌐 Python | 📅 2024-09-06]
 
 * **WebGPT: Browser-assisted question-answering with human feedback**, arXiv 2021, \[[paper](https://arxiv.org/abs/2112.09332)] \[[blog](https://openai.com/index/webgpt/)]
 
@@ -568,17 +568,17 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### GUI
 
-* **OmniParser for Pure Vision Based GUI Agent**, arXiv 2024, \[[paper](https://arxiv.org/abs/2408.00203)] \[[code](https://github.com/microsoft/OmniParser) ⭐ 25,494 | 🐛 231 | 🌐 Jupyter Notebook | 📅 2026-07-20]
+* **OmniParser for Pure Vision Based GUI Agent**, arXiv 2024, \[[paper](https://arxiv.org/abs/2408.00203)] \[[code](https://github.com/microsoft/OmniParser) ⭐ 25,495 | 🐛 231 | 🌐 Jupyter Notebook | 📅 2026-07-20]
 
-* **UFO: A UI-Focused Agent for Windows OS Interaction**, arXiv 2024, \[[paper](https://arxiv.org/abs/2402.07939)] \[[code](https://github.com/microsoft/UFO) ⭐ 9,929 | 🐛 86 | 🌐 Python | 📅 2026-10-06]
+* **UFO: A UI-Focused Agent for Windows OS Interaction**, arXiv 2024, \[[paper](https://arxiv.org/abs/2402.07939)] \[[code](https://github.com/microsoft/UFO) ⭐ 9,933 | 🐛 86 | 🌐 Python | 📅 2026-10-06]
 
 * **Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception**, arXiv 2024, \[[paper](https://arxiv.org/abs/2401.16158)] \[[code](https://github.com/X-PLUG/MobileAgent) ⭐ 9,277 | 🐛 196 | 🌐 Python | 📅 2026-07-07]
 
-* **AppAgent: Multimodal Agents as Smartphone Users**, arXiv 2023, \[[paper](https://arxiv.org/abs/2312.13771)] \[[code](https://github.com/TencentQQGYLab/AppAgent) ⭐ 6,900 | 🐛 99 | 🌐 Python | 📅 2025-03-19]
+* **AppAgent: Multimodal Agents as Smartphone Users**, arXiv 2023, \[[paper](https://arxiv.org/abs/2312.13771)] \[[code](https://github.com/TencentQQGYLab/AppAgent) ⭐ 6,899 | 🐛 99 | 🌐 Python | 📅 2025-03-19]
 
 #### DB & KG
 
-* **A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?**, arXiv 2024, \[[paper](arxiv.org/abs/2408.05109)] \[[Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook) ⭐ 1,608 | 🐛 0 | 🌐 Python | 📅 2026-08-31]
+* **A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?**, arXiv 2024, \[[paper](arxiv.org/abs/2408.05109)] \[[Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook) ⭐ 1,609 | 🐛 0 | 🌐 Python | 📅 2026-08-31]
 
 * **Spider 2.0: Evaluating language models on real-world enterprise text-to-sql workflows.**, ICLR 2025, \[[paper](https://arxiv.org/abs/2411.07763)] \[[code](https://github.com/xlang-ai/Spider2) ⭐ 876 | 🐛 137 | 🌐 HTML | 📅 2026-08-12]
 
@@ -626,7 +626,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Prompt
 
-* **ToT: Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, NeurIPS 2023, \[[paper](https://arxiv.org/abs/2305.10601)] \[[code](https://github.com/princeton-nlp/tree-of-thought-llm) ⭐ 6,076 | 🐛 8 | 🌐 Python | 📅 2025-01-16]
+* **ToT: Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, NeurIPS 2023, \[[paper](https://arxiv.org/abs/2305.10601)] \[[code](https://github.com/princeton-nlp/tree-of-thought-llm) ⭐ 6,075 | 🐛 8 | 🌐 Python | 📅 2025-01-16]
 
 * **GoT: Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, AAAI 2023, \[[paper](https://arxiv.org/abs/2308.09687)] \[[code](https://github.com/spcl/graph-of-thoughts) ⭐ 2,841 | 🐛 7 | 🌐 Python | 📅 2026-03-24]
 
@@ -642,7 +642,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Decompose
 
-* **HuggingGPT: Hugginggpt: Solving ai tasks with chatgpt and its friends in hugging face**, NeurIPS 2024, \[[paper](https://arxiv.org/abs/2303.17580)] \[[code](https://github.com/microsoft/JARVIS) ⭐ 25,394 | 🐛 4,168 | 🌐 Python | 📅 2025-07-29]
+* **HuggingGPT: Hugginggpt: Solving ai tasks with chatgpt and its friends in hugging face**, NeurIPS 2024, \[[paper](https://arxiv.org/abs/2303.17580)] \[[code](https://github.com/microsoft/JARVIS) ⭐ 25,396 | 🐛 4,170 | 🌐 Python | 📅 2025-07-29]
 
 * **Plan-and-Solve: Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**, ACL 2023, \[[paper](https://arxiv.org/abs/2305.04091)] \[[code](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting) ⭐ 735 | 🐛 3 | 🌐 Python | 📅 2023-05-23]
 
@@ -652,11 +652,11 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Role-play
 
-* **MetaGPT: Meta{GPT}: Meta Programming for Multi-Agent Collaborative Framework**, ICLR 2023, \[[paper](https://arxiv.org/abs/2308.00352)] \[[code](https://github.com/geekan/MetaGPT) ⭐ 70,760 | 🐛 142 | 🌐 Python | 📅 2026-01-21]
+* **MetaGPT: Meta{GPT}: Meta Programming for Multi-Agent Collaborative Framework**, ICLR 2023, \[[paper](https://arxiv.org/abs/2308.00352)] \[[code](https://github.com/geekan/MetaGPT) ⭐ 70,761 | 🐛 142 | 🌐 Python | 📅 2026-01-21]
 
-* **ChatDev: ChatDev: Communicative Agents for Software Development**, ACL 2024, \[[paper](https://arxiv.org/abs/2307.07924)] \[[code](https://github.com/OpenBMB/ChatDev) ⭐ 34,451 | 🐛 82 | 🌐 Python | 📅 2026-07-24]
+* **ChatDev: ChatDev: Communicative Agents for Software Development**, ACL 2024, \[[paper](https://arxiv.org/abs/2307.07924)] \[[code](https://github.com/OpenBMB/ChatDev) ⭐ 34,454 | 🐛 81 | 🌐 Python | 📅 2026-07-24]
 
-* **Generative Agents: Generative agents: Interactive simulacra of human behavio**, arXiv 2023, \[[paper](https://arxiv.org/abs/2304.03442)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 22,191 | 🐛 146 | 📅 2024-08-05]
+* **Generative Agents: Generative agents: Interactive simulacra of human behavio**, arXiv 2023, \[[paper](https://arxiv.org/abs/2304.03442)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 22,192 | 🐛 146 | 📅 2024-08-05]
 
 * **SWE-Agent: SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering**, arXiv 2024, \[[paper](https://arxiv.org/abs/2405.15793)] \[[project](https://swe-agent.com/latest/)]
 
@@ -672,7 +672,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Pre-Train
 
-* **LAM: Large Action Models: From Inception to Implementation**, arXiv 2024, \[[paper](https://arxiv.org/abs/2412.10047)] \[[code](https://github.com/microsoft/UFO/tree/main/dataflow) ⭐ 9,929 | 🐛 86 | 🌐 Python | 📅 2026-10-06]
+* **LAM: Large Action Models: From Inception to Implementation**, arXiv 2024, \[[paper](https://arxiv.org/abs/2412.10047)] \[[code](https://github.com/microsoft/UFO/tree/main/dataflow) ⭐ 9,933 | 🐛 86 | 🌐 Python | 📅 2026-10-06]
 
 * **RT-1: RT-1: Robotics Transformer for Real-World Control at Scale**, arXiv 2022, \[[paper](https://arxiv.org/abs/2212.06817)] \[[project](https://robotics-transformer1.github.io/)]
 
